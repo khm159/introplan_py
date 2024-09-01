@@ -7,6 +7,8 @@
 
 - Original Paper : [Kaiqu Liang, Zixu Zhang, Jaime Fernández Fisac. et al., "Introspective Planning: Aligning Robots’ Uncertainty with Inherent Task Ambiguity."](https://arxiv.org/abs/2402.06529)
 
+This is full python version of "Introspective Planning: Aligning Robots’ Uncertainty with Inherent Task Ambiguity.".
+
 I convert original peper's jupyter notebook style codes to python codes due to enhance the usability.
 
 Currently, Llama is only inferencible
