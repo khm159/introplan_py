@@ -150,7 +150,7 @@ def main(args):
 
     if not os.path.exists ("train_final.pkl") and not os.path.exists("test_final.pkl"):
         print("Hugging-face login")
-        huggingface_token="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"
+        huggingface_token="YOURKEY"
         huggingface_hub.login(
             token=huggingface_token
         )
